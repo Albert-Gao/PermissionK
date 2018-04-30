@@ -2,6 +2,8 @@
 
 Opinionated permission handling done right with Kotlin.
 
+Check more details in my [blog](http://www.albertgao.xyz/2018/04/23/android-permission-handling-done-right-with-kotlin/)
+
 ## Why use it
 
 - The whole flow has been sorted out.
