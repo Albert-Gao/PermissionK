@@ -1,0 +1,3 @@
+rootProject.name = 'permissionk'
+
+include ":permissionk"
